@@ -1,7 +1,6 @@
 {
-  "name": "desafio3-comision51318",
+  "name": "comision51318",
   "version": "1.0.0",
-  "description": "- Tutora: Laura Acuña",
   "main": "app.js",
   "type": "module",
   "scripts": {
@@ -11,15 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lauriacunia/desafio3-comision51318.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Lauriacunia/desafio3-comision51318/issues"
-  },
-  "homepage": "https://github.com/Lauriacunia/desafio3-comision51318#readme",
+  "homepage": " ",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-flash": "^0.1.1",
